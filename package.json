@@ -4,13 +4,14 @@
   "description": "a backend project",
   "type": "module",
   "main": "index.js",
-  "scripts": {
-    
-  },
+  "scripts": {},
   "keywords": [
     "javascript",
     "backend"
   ],
   "author": "Ravi Choudhary",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  }
 }
