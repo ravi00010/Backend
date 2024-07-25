@@ -4,14 +4,13 @@
   "description": "a backend project",
   "type": "module",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
   "keywords": [
     "javascript",
     "backend"
   ],
   "author": "Ravi Choudhary",
-  "license": "ISC",
-  "devDependencies": {
-    "prettier": "^3.3.3"
-  }
+  "license": "ISC"
 }
